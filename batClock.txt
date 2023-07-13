@@ -1,0 +1,3 @@
+@echo off
+Title batClock
+@mode con=30 lines=7
